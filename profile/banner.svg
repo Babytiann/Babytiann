@@ -75,7 +75,7 @@
     <g transform="translate(118 162) scale(0.6)"><use href="#sparkle" class="star st3" fill="#b8a4e3"/></g>
     <g transform="translate(886 120) scale(0.85)"><use href="#sparkle" class="star st4" fill="#f3b0c8"/></g>
 
-    <text x="500" y="112" text-anchor="middle" class="title">Hi, I'm <tspan fill="#e8739e">Meow</tspan> 😺</text>
+    <text x="500" y="112" text-anchor="middle" class="title">Hi, I'm <tspan fill="#e8739e">Meow</tspan></text>
 
     <text x="500" y="160" text-anchor="middle" class="sub s1">Frontend developer</text>
     <text x="500" y="160" text-anchor="middle" class="sub s2">Building Piko, an AI assistant</text>
