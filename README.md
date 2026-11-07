@@ -1,16 +1,35 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+Welcome+to+Qi's+homepage!!!;I'm+a+Frontend+developer)](https://git.io/typing-svg)
-
-
-Continuously improving！
-
-## Contributions
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=babytiann&show_icons=true&title_color=ff8ccf&text_color=f9f9f9&icon_color=ffb6e6&border_color=ff80bf&bg_color=45,0a0a0a,1a001a,330033,ff66b2&border_radius=14&rank_icon=github" height="180">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=babytiann&layout=donut" 
-    height="180"
-  />
+<div align="center">
+  <img src="./profile/banner.svg" width="100%" alt="Hi, I'm Meow — Frontend developer" />
 </div>
 
+### 🌷 About me
 
+- 🐱 I'm **PeiQi**, also known as **Meow** — a frontend developer who loves building cute, polished interfaces.
+- 🤖 Currently building **[Piko](https://github.com/Babytiann/Piko)**, an AI assistant for bookkeeping, budgeting and travel.
+- 📝 I write about what I learn on my [blog](https://gemdzqq.com).
+- 🍀 Continuously improving!
+
+<p>
+  <a href="https://gemdzqq.com"><img src="https://img.shields.io/badge/Blog-gemdzqq.com-f9d5e3?style=flat-square&logo=astro&logoColor=white&labelColor=e8739e" alt="Blog" /></a>
+  <a href="https://github.com/Babytiann"><img src="https://img.shields.io/badge/GitHub-Babytiann-e2d6ff?style=flat-square&logo=github&logoColor=white&labelColor=9d86d4" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Babytiann&color=e8739e&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
+
+### 💗 Tech stack
+
+<img src="./profile/stack.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Astro, Node.js, Express, MySQL, Python, Git" />
+
+### 📊 Stats
+
+<p>
+  <img src="./profile/stats.svg" height="170" alt="PeiQi's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
+</p>
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Babytiann/Babytiann/master/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Babytiann/Babytiann/master/profile/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Babytiann/Babytiann/master/profile/snake.svg" alt="A snake eating my contribution graph" />
+</picture>
